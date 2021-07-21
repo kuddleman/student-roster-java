@@ -1,4 +1,4 @@
 package ui;
 
-public interface UserIOConsoleImpl {
+public class UserIOConsoleImpl {
 }

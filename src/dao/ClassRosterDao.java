@@ -1,4 +1,4 @@
 package dao;
 
-public class ClassRosterDao {
+public interface ClassRosterDao {
 }

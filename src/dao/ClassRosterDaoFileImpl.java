@@ -1,4 +1,4 @@
 package dao;
 
-public interface ClassRosterDaoFileImpl {
+public class ClassRosterDaoFileImpl {
 }
